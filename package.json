@@ -28,7 +28,6 @@
     "dependencies": {
         "common-errors": "^0.5.3",
         "express": "^4.0.0",
-        "http": "0.0.0",
         "merge": "^1.2.1",
         "q": "^1.4.1",
         "request": "^2.65.0",
